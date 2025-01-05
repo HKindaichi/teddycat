@@ -1,0 +1,1092 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>TeddyCat - Home</title><meta property="og:site_name" content="TeddyCat" />
+<meta property="og:title" content="TeddyCat" />
+<meta property="og:description" content="TeddyCat combines the charm of an adorable cat wearing a teddy bear suit with the power of blockchain technology. Join our cozy community, where fun meets financial opportunity, and let’s grow..." />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/s3xr6wd1.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/line_5.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/teddycat4-removebg-preview_orig.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/line_6.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/published/teddycat.png?1735314541" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/line_7.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/pawsome2_2.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/petpals_3.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/tuliskon_2.png" />
+<meta property="og:image" content="https://teddycat.weebly.com/uploads/1/5/1/7/151783209/catnipnappers_2.png" />
+<meta property="og:url" content="https://teddycat.weebly.com/" />
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		
+		<link id="wsite-base-style" rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/sites.css?buildTime=1734654277" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/old/fancybox.css?1734654277" />
+<link rel="stylesheet" type="text/css" href="//cdn2.editmysite.com/css/social-icons.css?buildtime=1734654277" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="/files/main_style.css?1736072156" title="wsite-theme-css" />
+<link href='//cdn2.editmysite.com/fonts/Josefin_Sans/font.css?2' rel='stylesheet' type='text/css' />
+
+<link href='//cdn2.editmysite.com/fonts/Quattrocento/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Crimson_Text/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Crimson_Text/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Crimson_Text/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Montserrat/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Playfair_Display/font.css?2' rel='stylesheet' type='text/css' />
+<link href='//cdn2.editmysite.com/fonts/Lora/font.css?2' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Quattrocento" !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#626262 !important;}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{font-family:"Crimson Text" !important;}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Crimson Text" !important;letter-spacing: 0px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{font-family:"Crimson Text" !important;}
+#wsite-title {font-family:"Montserrat" !important;}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-family:"Playfair Display" !important;letter-spacing: -1px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {font-family:"Lora" !important;font-weight:400 !important;text-transform:  none !important;}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+@media screen and (min-width: 767px) {.wsite-elements.wsite-not-footer:not(.wsite-header-elements) div.paragraph, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) p, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-block .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-description, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-size:18px !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{font-size:18px !important;}
+.wsite-elements.wsite-not-footer:not(.wsite-header-elements) h2, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-long .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-large .product-title, .wsite-elements.wsite-not-footer:not(.wsite-header-elements) .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-size:31px !important;}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{font-size:12px !important;}
+#wsite-title {font-size:15px !important;}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline,.wsite-header-section .wsite-content-title {font-size:90px !important;}
+.wsite-headline-paragraph,.wsite-header-section .paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+}</style>
+<link rel='stylesheet' type='text/css' href='//cdn2.editmysite.com/css/old/slideshow/slideshow.css?1734654277' />
+
+		<script src='/files/templateArtifacts.js?1736072156'></script>
+<script>
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+</script>
+<script src='https://cdn2.editmysite.com/js/jquery-1.8.3.min.js'></script>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1734654277&"></script>
+<script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1734654277"></script><script type="text/javascript">
+		function initCustomerAccountsModels() {
+					(function(){_W.setup_rpc({"url":"\/ajax\/api\/JsonRPC\/CustomerAccounts\/","actions":{"CustomerAccounts":[{"name":"login","len":2,"multiple":false,"standalone":false},{"name":"logout","len":0,"multiple":false,"standalone":false},{"name":"getSessionDetails","len":0,"multiple":false,"standalone":false},{"name":"getAccountDetails","len":0,"multiple":false,"standalone":false},{"name":"getOrders","len":0,"multiple":false,"standalone":false},{"name":"register","len":4,"multiple":false,"standalone":false},{"name":"emailExists","len":1,"multiple":false,"standalone":false},{"name":"passwordReset","len":1,"multiple":false,"standalone":false},{"name":"passwordUpdate","len":3,"multiple":false,"standalone":false},{"name":"validateSession","len":1,"multiple":false,"standalone":false}]},"namespace":"_W.CustomerAccounts.RPC"});
+_W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":"_W.CustomerAccounts.BackboneModelData","collection_namespace":"_W.CustomerAccounts.BackboneCollectionData","bootstrap_namespace":"_W.CustomerAccounts.BackboneBootstrap","models":{"CustomerAccounts":{"_class":"CustomerAccounts.Model.CustomerAccounts","defaults":null,"validation":null,"types":null,"idAttribute":null,"keydefs":null}},"collections":{"CustomerAccounts":{"_class":"CustomerAccounts.Collection.CustomerAccounts"}},"bootstrap":[]});
+})();
+		}
+		if(document.createEvent && document.addEventListener) {
+			var initEvt = document.createEvent('Event');
+			initEvt.initEvent('customerAccountsModelsInitialized', true, false);
+			document.dispatchEvent(initEvt);
+		} else if(document.documentElement.initCustomerAccountsModels === 0){
+			document.documentElement.initCustomerAccountsModels++
+		}
+		</script>
+		<script type="text/javascript"> _W = _W || {}; _W.securePrefix='teddycat.weebly.com'; </script><script>_W = _W || {};
+			_W.customerLocale = "en_US";
+			_W.storeName = null;
+			_W.isCheckoutReskin = false;
+			_W.storeCountry = "MY";
+			_W.storeCurrency = "MYR";
+			_W.storeEuPrivacyPolicyUrl = "";
+			com_currentSite = "734053050888419840";
+			com_userID = "151783209";</script><script type='text/javascript' src='//cdn2.editmysite.com/js/old/slideshow-jq.js?buildTime=1734654277'></script>
+<script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
+<script type="text/javascript" src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1734654277&"></script><script> _W.themePlugins = [];</script><script type="text/javascript"> _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; </script><script type="text/javascript"><!--
+	
+	
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"420416378126017976","title":"Home","url":"index.html","target":"","nav_menu":false,"nonclickable":false}],
+			"420416378126017976",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{"hasCustomMembership":true,"hasCustomMinicart":true}
+		)
+	}
+//-->
+</script>
+		
+		
+	</head>
+	<body class="header-page  wsite-page-index  sticky-nav-on full-width-on header-scroll-animate-off  wsite-theme-light"><div class="wrapper">
+    <div class="unite-header">
+      <div class="nav-wrap">
+        <div class="container">
+          <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
+          <div class="logo"><span class="wsite-logo">
+
+	<a href="/">
+	
+	<span id="wsite-title">TeddyCat</span>
+	
+	</a>
+
+</span></div>
+          <div class="nav desktop-nav"><ul class="wsite-menu-default">
+		<li id="active" class="wsite-menu-item-wrap">
+			<a
+						href="/"
+				class="wsite-menu-item"
+				>
+				Home
+			</a>
+			
+		</li>
+</ul>
+</div>
+          <div class="nav membership-cart"><span id="member-login" class="wsite-custom-membership-wrapper"><a href="#" id="wsite-nav-login-a"></a></span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="banner-wrap">
+      <div class="wsite-elements wsite-not-footer wsite-header-elements">
+	<div class="wsite-section-wrap">
+	<div  class="wsite-section wsite-header-section wsite-section-bg-color" style="height: auto;vertical-align: bottom;background-color: #fff;background-image: none;is_customized: 1;" >
+		<div class="wsite-section-content">
+			
+          <div class="container">
+            <div class="banner">
+				<div class="wsite-section-elements">
+					<div><div id="162380456135535879" align="inherit" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><!DOCTYPE html>
+<html lang="en">
+<head><script src="/gdpr/gdprscript.js?buildTime=1734654277"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Animation</title>
+    <style>
+        /* Body Styling */
+        body {
+            margin: 0;
+            padding: 0;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            flex-direction: column;
+        }
+
+        /* Typing Text Container */
+        .typing-container {
+            border: 2px solid #D1006F; /* Dark Pink Border */
+            border-radius: 8px;
+            padding: 15px 20px;
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
+            box-shadow: 0 0 15px #D1006F; /* Dark Pink Glow */
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        /* Typing Text */
+        .typing-text {
+            font-family: 'Courier New', Courier, monospace;
+            color: #D1006F; /* Dark Pink Text */
+            font-size: 1.5rem;
+            font-weight: bold;
+            white-space: nowrap;
+            overflow: hidden;
+            display: inline-block;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .typing-text {
+                font-size: 1.2rem;
+                width: 100%;
+                white-space: normal;
+            }
+            .typing-container {
+                padding: 10px 15px;
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="typing-container">
+        <div class="typing-text" id="line1"></div>
+        <div class="typing-text" id="line2"></div>
+    </div>
+
+    <script>
+        const line1 = "The most adorable and";
+        const line2 = "cuddliest AI AGENT in town";
+
+        let line1Index = 0;
+        let line2Index = 0;
+
+        function typeLine(line, element, index, callback) {
+            if (index < line.length) {
+                element.innerHTML += line.charAt(index);
+                setTimeout(() => typeLine(line, element, index + 1, callback), 100);
+            } else {
+                callback();
+            }
+        }
+
+        function startTyping() {
+            const line1Element = document.getElementById('line1');
+            const line2Element = document.getElementById('line2');
+            
+            // Start typing line 1
+            typeLine(line1, line1Element, line1Index, () => {
+                // After line 1 finishes typing, start line 2
+                setTimeout(() => {
+                    typeLine(line2, line2Element, line2Index, () => {});
+                }, 500); // Delay before starting line 2
+            });
+        }
+
+        // Start the typing animation
+        startTyping();
+    </script>
+</body>
+</html>
+</div>
+
+
+
+</div>
+				</div>
+			</div>
+          </div>
+      
+		</div>
+		<div class=""></div>
+	</div>
+</div>
+</div>
+
+    </div>
+
+    <div class="main-wrap">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+	<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-background-6" style="height: 448px;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div><div style="height:20px;overflow:hidden"></div>
+<div id='335389647145652695-slideshow'></div>
+<script type='text/javascript'>
+(function(jQuery) {
+function init() { window.wSlideshow && window.wSlideshow.render({elementID:"335389647145652695",nav:"thumbnails",navLocation:"bottom",captionLocation:"bottom",transition:"fade",autoplay:"1",speed:"3",aspectRatio:"auto",showControls:"true",randomStart:"false",images:[{"url":"1\/5\/1\/7\/151783209\/s3xr6wd1.png","width":480,"height":480,"fullHeight":480,"fullWidth":480},{"url":"1\/5\/1\/7\/151783209\/teddycat3-removebg-preview.png","width":418,"height":597,"fullHeight":597,"fullWidth":418},{"url":"1\/5\/1\/7\/151783209\/care-bears-grumpy-bear-dog-costume-alt-1.jpg","width":560,"height":800,"fullHeight":800,"fullWidth":560},{"url":"1\/5\/1\/7\/151783209\/teddycat4-removebg-preview.png","width":418,"height":597,"fullHeight":597,"fullWidth":418},{"url":"1\/5\/1\/7\/151783209\/c3umnjozn.jpg","width":800,"height":500,"fullHeight":688,"fullWidth":1100},{"url":"1\/5\/1\/7\/151783209\/580329-ps-walking-tbear-scaled.jpg","width":594,"height":800,"fullHeight":800,"fullWidth":594},{"url":"1\/5\/1\/7\/151783209\/dog-panda-costume-alt-1.jpg","width":560,"height":800,"fullHeight":800,"fullWidth":560}]}) }
+jQuery(document).ready(init);
+})(window.jQuery)
+</script>
+
+<div style="height:20px;overflow:hidden"></div></div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<div><div id="415642806649452793" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><!-- Epsilla Chat Widget -->
+<script>
+(function(d, w, c) {
+    w.AppUrl = 'chatbot/4a438708-425c-4572-9370-faca1fe29e63-347145999/7ce2b996-981e-4e4f-9a53-8adbe9d6ae00?mode=embed';
+    w.themeColor = '#8564D7';
+    var s = d.createElement('script');
+    w[c] = w[c] || function() {
+        (w[c].q = w[c].q || []).push(arguments);
+    };
+    s.async = true;
+    s.src = 'https://script.epsilla.com/epsilla.js';
+    if (d.head) d.head.appendChild(s);
+})(document, window, 'Epsilla');
+</script>
+<!-- /Epsilla Chat Widget -->
+</div>
+
+
+
+</div>
+
+<div><div id="761620690854181683" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><!-- Epsilla Chat Widget -->
+<iframe src="https://cloud.epsilla.com/chatbot/4a438708-425c-4572-9370-faca1fe29e63-347145999/7ce2b996-981e-4e4f-9a53-8adbe9d6ae00?mode=embed" 
+        style="border: none; width: 100%; max-width: 900px; height: 600px; display: block; margin: 0 auto;">
+</iframe>
+<!-- /Epsilla Chat Widget -->
+</div>
+
+
+
+</div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;">We Take Your Pet's Health Seriously</h2>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/line_5.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:22.492232349085%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:55.014784529519%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:center;">TeddyCat combines the charm of an adorable cat wearing a teddy bear suit with the power of blockchain technology. Join our cozy community, where fun meets financial opportunity, and let&rsquo;s grow together&mdash;one paw at a time.</div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:22.492983121396%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div class="wsite-spacer" style="height:87px;"></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:33.333333333333%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/teddycat4-removebg-preview_orig.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:33.333333333333%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+<h2 class="wsite-content-title" style="text-align:center;">Size Doesn't Matter</h2>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/line_6.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div class="paragraph" style="text-align:center;">TeddyCat is a community-driven cryptocurrency that prioritizes the involvement and growth of its supporters. It emphasizes the power of the community, recognizing that every member, no matter the size of their investment, plays a crucial role in the success and development of the coin. Whether you hold a large or small amount of TeddyCat, your participation, feedback, and support help shape its future. This approach fosters a strong, inclusive environment where everyone&rsquo;s voice matters, creating a thriving ecosystem that grows as a collective effort, rather than being driven by a select few.&#8203;</div>
+
+
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:33.333333333333%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/published/teddycat.png?1735314541" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-7" style="height: 511px;background-color: #ddd3d3;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<h2 class="wsite-content-title">Roadmap</h2>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:30.872240962538%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:left;"><strong>&nbsp; &nbsp; PHASE 1</strong><ul><li><strong>Design and deploy initial website</strong></li><li><strong>Focus on accelerating community growth</strong></li><li><strong>Commence&nbsp;marketing</strong></li><li><strong>Launch</strong></li></ul></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:28.787920813755%; padding:0 15px;">
+					
+						
+
+<div class="paragraph">&nbsp; <strong>&nbsp; PHASE 2</strong><ul><li><strong>Find new use cases / Minigames</strong></li><li><strong>CoinGecko Listing</strong></li><li><strong>CoinMarketCap Listing</strong></li><li><strong>1,000 Telegram Members</strong></li><li><strong>Continue marketing</strong></li></ul></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:28.020242925388%; padding:0 15px;">
+					
+						
+
+<div class="paragraph"><strong><span style="color:rgb(98, 98, 98)">&nbsp; &nbsp; PHASE 3</span></strong><ul style="color:rgb(98, 98, 98)"><li><strong>CEX Listing</strong></li><li><strong>NFT (TBC)</strong></li><li><strong>5,000 Telegram Members</strong></li><li><strong>Pass to community</strong></li></ul></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:12.319595298319%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+<div class="wsite-section-wrap">
+	<div class="wsite-section wsite-body-section wsite-section-bg-color wsite-background-8" style="background-color: #ffffff;background-image: none;" >
+		<div class="wsite-section-content">
+          <div class="container">
+			<div class="wsite-section-elements">
+				<div><div id="682563831318559147" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.54/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/dmrqVed05OQnZpyR/scene.splinecode"></spline-viewer></div>
+
+
+
+</div>
+
+<div><div id="756227657738389966" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div id="game-container" style="width: 100%; text-align: center; margin-top: 20px; position: relative;">
+  <h1 style="font-family: 'Press Start 2P', cursive; color: #FF5733; margin-bottom: 10px;">Catch Me If You Can</h1>
+  <div style="position: relative; display: inline-block;">
+    <canvas id="gameCanvas" width="300" height="500" style="border: 2px solid black; background-color: #f0f0f0;"></canvas>
+    <div id="game-over" style="display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; padding: 20px; background: rgba(0, 0, 0, 0.9); color: white; text-align: center; font-family: 'Press Start 2P', cursive; border-radius: 10px;">
+      <h2>Game Over</h2>
+      <p>Your Final Score: <span id="final-score"></span></p>
+      <div id="leaderboard-input" style="display: none; margin-top: 10px;">
+        <input type="text" id="player-name" placeholder="Enter your name" style="padding: 5px; font-family: 'Press Start 2P', cursive; font-size: 10px; width: 80%; margin-top: 10px;" maxlength="10">
+        <button id="submit-name" style="margin-top: 10px; padding: 5px 10px; font-family: 'Press Start 2P', cursive; font-size: 10px;">Submit</button>
+      </div>
+      <button id="retry-button" style="margin-top: 20px; padding: 10px 20px; font-family: 'Press Start 2P', cursive;">Retry</button>
+    </div>
+  </div>
+  <div style="margin-top: 10px; font-family: 'Press Start 2P', cursive; font-size: 12px; text-align: center;">
+    <p>Score: <span id="score">0</span> | High Score: <span id="high-score">0</span> | Chances Left: <span id="chances">10</span></p>
+  </div>
+  <div id="leaderboard" style="margin-top: 20px; font-family: 'Press Start 2P', cursive; text-align: center;">
+    <h3>Leaderboard</h3>
+    <ol id="leaderboard-list" style="padding-left: 20px; text-align: left; margin: 0 auto; display: inline-block;"></ol>
+  </div>
+</div>
+
+<script>
+  const canvas = document.getElementById("gameCanvas");
+  const ctx = canvas.getContext("2d");
+  const gameOverScreen = document.getElementById("game-over");
+  const finalScoreElement = document.getElementById("final-score");
+  const retryButton = document.getElementById("retry-button");
+  const submitNameButton = document.getElementById("submit-name");
+  const playerNameInput = document.getElementById("player-name");
+  const leaderboardInput = document.getElementById("leaderboard-input");
+  const leaderboardList = document.getElementById("leaderboard-list");
+  const scoreElement = document.getElementById("score");
+  const highScoreElement = document.getElementById("high-score");
+  const chancesElement = document.getElementById("chances");
+
+  let gameRunning = false;
+  let intervalId = null;
+  let gameStarted = false;
+  let playerClicked = false;
+
+  const clickableImage = new Image();
+  clickableImage.src = "https://i.postimg.cc/vmcZqSq3/forgame.png";
+
+  let circle = { x: 150, y: 250, radius: 50, speed: 1000 };
+  let score = 0;
+  let chances = 10;
+  let highScore = 0;
+
+  let leaderboard = []; // Leaderboard to store top 5 players
+
+  function showStartMessage(isRetry = false) {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.font = "16px 'Press Start 2P', cursive";
+    ctx.fillStyle = "black";
+    ctx.textAlign = "center";
+
+    const message = isRetry ? "Start the game" : "Click to start the game";
+    ctx.fillText(message, canvas.width / 2, canvas.height / 2 - 10);
+    gameStarted = false;
+  }
+
+  function randomizeCircle() {
+    circle.x = Math.random() * (canvas.width - 2 * circle.radius) + circle.radius;
+    circle.y = Math.random() * (canvas.height - 2 * circle.radius) + circle.radius;
+  }
+
+  function updateUI() {
+    scoreElement.textContent = score;
+    highScoreElement.textContent = highScore;
+    chancesElement.textContent = chances;
+  }
+
+  canvas.addEventListener("click", (e) => {
+    if (!gameStarted) {
+      startGame();
+      return;
+    }
+
+    if (!gameRunning) return;
+
+    playerClicked = true;
+    const rect = canvas.getBoundingClientRect();
+    const clickX = e.clientX - rect.left;
+    const clickY = e.clientY - rect.top;
+
+    const dist = Math.sqrt((clickX - circle.x) ** 2 + (clickY - circle.y) ** 2);
+    if (dist <= circle.radius) {
+      score++;
+      if (score > highScore) highScore = score;
+
+      if (score % 3 === 0 && circle.speed > 200) {
+        circle.speed -= 50;
+      }
+
+      clearInterval(intervalId);
+      randomizeCircle();
+      intervalId = setInterval(moveCircle, circle.speed);
+    } else {
+      chances--;
+      if (chances <= 0) endGame();
+    }
+    updateUI();
+  });
+
+  function moveCircle() {
+    if (!playerClicked) {
+      chances--;
+      if (chances <= 0) {
+        endGame();
+        return;
+      }
+    }
+    playerClicked = false;
+    randomizeCircle();
+    clearInterval(intervalId);
+    intervalId = setInterval(moveCircle, circle.speed);
+    draw();
+    updateUI();
+  }
+
+  function startGame() {
+    score = 0;
+    chances = 10;
+    circle.radius = 50;
+    circle.speed = 1000;
+    gameRunning = true;
+    gameStarted = true;
+    randomizeCircle();
+    intervalId = setInterval(moveCircle, circle.speed);
+    draw();
+    updateUI();
+  }
+
+  function endGame() {
+    gameRunning = false;
+    clearInterval(intervalId);
+    finalScoreElement.textContent = score;
+    gameOverScreen.style.display = "block";
+
+    const qualifies = leaderboard.length < 5 || score > leaderboard[leaderboard.length - 1].score;
+    if (qualifies) leaderboardInput.style.display = "block";
+  }
+
+  submitNameButton.addEventListener("click", () => {
+    const playerName = playerNameInput.value.trim();
+    if (playerName === "") return;
+
+    leaderboard.push({ name: playerName, score });
+    leaderboard.sort((a, b) => b.score - a.score);
+    if (leaderboard.length > 5) leaderboard.pop();
+
+    updateLeaderboard();
+    leaderboardInput.style.display = "none";
+    playerNameInput.value = "";
+  });
+
+  retryButton.addEventListener("click", () => {
+    gameOverScreen.style.display = "none";
+    showStartMessage(true);
+    gameRunning = false;
+  });
+
+  function updateLeaderboard() {
+    leaderboardList.innerHTML = leaderboard
+      .map((entry) => `<li>${entry.name} - ${entry.score}</li>`)
+      .join("");
+  }
+
+  function draw() {
+    if (!gameRunning) return;
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(
+      clickableImage,
+      circle.x - circle.radius,
+      circle.y - circle.radius,
+      circle.radius * 2,
+      circle.radius * 2
+    );
+    requestAnimationFrame(draw);
+  }
+
+  showStartMessage();
+</script>
+
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</div>
+
+
+
+</div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/line_7.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;">FAQs</h2>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:21.640091116173%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:55.558771478252%; padding:0 15px;">
+					
+						
+
+<div class="paragraph" style="text-align:center;"><strong>Disclaimer: TeddyCat Coin ($TDC) is a purely community-driven memecoin with no intrinsic value, no financial guarantees, and no promise of future returns.</strong> It is intended for entertainment, community engagement, and fun purposes only. Please do your own research and invest responsibly.</div>
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:22.801137405575%; padding:0 15px;">
+					
+						
+
+<div class="wsite-spacer" style="height:50px;"></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/pawsome2_2.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/petpals_3.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/tuliskon_2.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:25%; padding:0 15px;">
+					
+						
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a>
+<img src="/uploads/1/5/1/7/151783209/catnipnappers_2.png" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+			</div>
+		</div>
+      </div>
+
+	</div>
+</div>
+
+</div>
+
+    </div>
+
+    <div class="footer-wrap">
+        <div class="footer">
+
+<style type="text/css">
+	@font-face {
+		font-family: SQMarket-Medium;
+		font-style: normal;
+		font-weight: 500;
+		src:
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2") format("woff2"),
+			url("//cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff") format("woff");
+	}
+</style>
+
+<div id="weebly-footer-signup-container-v3">
+	<a
+		href="https://www.weebly.com/signup?utm_source=internal&utm_medium=footer"
+		target="_blank"
+		class="signup-container-header"
+		id="signup-link-href"
+	>
+		<div class="powered-by">
+			<div class="footer-published-ab-powered-by">
+				Powered by <span class="link weebly-icon"></span>
+				<img class="footer-ab-published-toast-image" src="//cdn2.editmysite.com/images/site/footer/footer-toast-published-image-1.png">
+				<span class="footer-ab-published-toast-text">Create your own unique website with customizable templates.</span>
+				<span class="footer-ab-published-toast-button-wrapper">
+					<button class="footer-published-ab-button">Get Started</button>
+				</span>
+			</div>
+		</div>
+	</a>
+</div>
+
+<script type="text/javascript" src="//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1734654277"></script>
+<script type="text/javascript">
+	if (document.readystate === 'complete') {
+		Weebly.footer.setupContainer('cdn2.editmysite.com', '1734654277');
+	} else {
+		document.addEventListener('DOMContentLoaded', function() {
+			Weebly.footer.setupContainer('cdn2.editmysite.com', '1734654277');
+		});
+	}
+</script>
+</div>
+    </div>
+  </div>
+
+  <div class="nav mobile-nav">
+    <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
+    <ul class="wsite-menu-default">
+    		<li id="active" class="wsite-menu-item-wrap">
+    			<a
+    						href="/"
+    				class="wsite-menu-item"
+    				>
+    				Home
+    			</a>
+    			
+    		</li>
+    </ul>
+  </div>
+
+
+	<script type="text/javascript" src="/files/theme/plugins.js?1703014541"></script>
+  <script type="text/javascript" src="/files/theme/custom.js?1703014541"></script>
+    <div id="customer-accounts-app"></div>
+    <script src="//cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1734654277"></script>
+
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		// NOTE: keep the [1] if you replace this code. Otherwise cookie banner scripts won't be first on the page
+		var s = document.getElementsByTagName('script')[1]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+</script>
+
+<script type="text/javascript" async=1>
+	// NOTE: keep the getElementsByTagName(o)**[1]** if you replace this code. Otherwise cookie banner scripts won't be first on the page
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[1];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '151783209';
+	_W.Analytics.site_id = '734053050888419840';
+
+	var drSegmentsTag = document.getElementById('drSegments');
+	if (drSegmentsTag) {
+		_W.Analytics.spContexts = _W.Analytics.spContexts || [];
+
+		var segmentData = JSON.parse(drSegmentsTag.innerText);
+		segmentData.forEach(function(test) {
+			_W.Analytics.spContexts.push({
+				schema: "iglu:com.weebly/context_ab_segment/jsonschema/1-0-0",
+				data: {
+					test_id: test.name,
+					segment: test.variant,
+				}
+			});
+		});
+	}
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			},
+			respectDoNotTrack: true
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id, _W.Analytics.spContexts);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		false
+	);
+</script>
+
+
+
+
+
+<script>
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+<script>
+	window._W.isEUUser = false;
+	window._W.showCookieToAll = "";
+</script>
+
+<script>
+	(function(jQuery) {
+		try {
+			function forceShowCcLinks() {
+				var ccLinks = document.querySelector('.cc_links');
+				if (!ccLinks) {
+					return;
+				}
+
+				var ccLinksVisible = jQuery(ccLinks).is(':visible');
+				if (ccLinksVisible) {
+					return;
+				}
+
+
+				ccLinks.style.display = 'block';
+
+				var ccParent = ccLinks.parentElement;
+
+				var ccParentVisible = jQuery(ccParent).is(':visible');
+				if (ccParentVisible) {
+					return;
+				}
+
+				ccParent.style.display = 'block';
+
+				var ccGrandparent = ccParent.parentElement;
+				var ccGrandparentVisible = jQuery(ccGrandparent).is(':visible');
+				if (ccGrandparentVisible) {
+					return;
+				}
+				ccGrandparent.style.display = 'block';
+
+			}
+
+			function forceShowCcLinksForever() {
+				var tenSeconds = 10000;
+				forceShowCcLinks();
+				setTimeout(forceShowCcLinksForever, tenSeconds);
+			}
+
+			jQuery(document).ready(forceShowCcLinksForever);
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+</script>
+
+
+	</body>
+</html>
